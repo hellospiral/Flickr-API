@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a simple slideshow that cycles through Flickr images using JQuery's getJSON function and the Flickr API.
+This is a simple slide show that cycles through Flickr images using JQuery's getJSON function and the Flickr API.
 
 ## GitHub Pages URL:
 
