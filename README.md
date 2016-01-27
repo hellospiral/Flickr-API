@@ -21,7 +21,9 @@ This is a simple slideshow that cycles through Flickr images using JQuery's getJ
 * BootStrap
 * Coin Slider 
 
+## Known Bugs
 
+* behaves strangely when a second query is submitted
 
 ### Legal
 
